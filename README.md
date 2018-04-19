@@ -1,2 +1,3 @@
 # hello-world
-practice
+This is for my practice of github.
+
